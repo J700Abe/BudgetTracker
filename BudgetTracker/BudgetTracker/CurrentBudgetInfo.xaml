@@ -4,10 +4,13 @@
              x:Class="BudgetTracker.CurrentBudgetInfo">
     <ContentPage.Content>
         <StackLayout>
-            <Label x:Name="sBudget"/>
+            
+            <Label x:Name="sBudget"
+                   TextColor="Green"/>
             <Label x:Name="currentBalance"
                    VerticalOptions="Center"
-                   HorizontalOptions="Center"/>
+                   HorizontalOptions="Center"
+                   TextColor="GreenYellow"/>
             
             <Entry x:Name="expenditure"
                    VerticalOptions="Center"
@@ -20,7 +23,8 @@
                     BackgroundColor="Blue"
                     TextColor="White"
                     VerticalOptions="Center"
-                    HorizontalOptions="Center"/>
+                    HorizontalOptions="Center"
+                    Clicked="AddExpenditure"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

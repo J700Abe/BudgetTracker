@@ -11,8 +11,7 @@
 namespace BudgetTracker {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracke" +
-        "r\\BudgetTracker\\CurrentBudgetInfo.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\CurrentBudgetInfo.xaml")]
     public partial class CurrentBudgetInfo : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

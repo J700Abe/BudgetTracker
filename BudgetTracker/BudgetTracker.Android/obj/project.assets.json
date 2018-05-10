@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
+      "projectUniqueName": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
       "projectName": "BudgetTracker.Android",
-      "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
+      "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
       "packagesPath": "C:\\Users\\Abraham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.Android\\obj\\",
+      "outputPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -835,8 +835,8 @@
       "frameworks": {
         "monoandroid71": {
           "projectReferences": {
-            "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
-              "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
+            "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
+              "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
             }
           }
         }
