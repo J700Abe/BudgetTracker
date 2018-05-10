@@ -6990,11 +6990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.UWP\\BudgetTracker.UWP.csproj",
+      "projectUniqueName": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.UWP\\BudgetTracker.UWP.csproj",
       "projectName": "BudgetTracker.UWP",
-      "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.UWP\\BudgetTracker.UWP.csproj",
+      "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.UWP\\BudgetTracker.UWP.csproj",
       "packagesPath": "C:\\Users\\Abraham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.UWP\\obj\\",
+      "outputPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7015,8 +7015,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
-              "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
+            "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
+              "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
             }
           }
         }

@@ -923,11 +923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.iOS\\BudgetTracker.iOS.csproj",
+      "projectUniqueName": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.iOS\\BudgetTracker.iOS.csproj",
       "projectName": "BudgetTracker.iOS",
-      "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.iOS\\BudgetTracker.iOS.csproj",
+      "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.iOS\\BudgetTracker.iOS.csproj",
       "packagesPath": "C:\\Users\\Abraham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.iOS\\obj\\",
+      "outputPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -948,8 +948,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
-              "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
+            "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
+              "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
             }
           }
         }
