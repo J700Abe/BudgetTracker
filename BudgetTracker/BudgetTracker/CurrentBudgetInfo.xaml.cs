@@ -14,25 +14,19 @@ namespace BudgetTracker
        
         public  CurrentBudgetInfo ()
 		{
-            try
-            {
-                InitializeComponent();
-                GetBudgetInformation();
-            }
-            catch(Exception e)
-            {
-
-            }
-			
+            InitializeComponent();
+            GetBudgetInformation();
+ 
 		}
 
 
-        private Budget model;
+        private Budget model = new Budget();
         private async void GetBudgetInformation()
         {
             var info = await PCLHelper.ReadAllTextAsync("Budget.txt");
             var b = JsonConvert.DeserializeObject<Budget>(info.ToString());
-           sBudget.Text = $"Budget: {b.TotalBudget}";
+          // var b = new ser
+           sBudget.Text =  $"Budget: {b.TotalBudget}";
            currentBalance.Text = $"Balance: {b.CurrentBudget}";
 
             model.CurrentBudget = b.CurrentBudget;
@@ -41,8 +35,10 @@ namespace BudgetTracker
             model.DateCreated = b.DateCreated;
             model.SelectedMonth = b.SelectedMonth;
             model.Description = null;
-            
+
         }
+ 
+        
 
         public async void AddExpenditure(object sender, EventArgs e)
         {
@@ -61,7 +57,13 @@ namespace BudgetTracker
             };
 
             var json = JsonConvert.SerializeObject(newBudget);
-           await PCLHelper.WriteTextAllAsync("Budget.txt", json.ToString());
+            await PCLHelper.WriteTextAllAsync("Budget.txt", json.ToString());
+
+            expenditure.Text = null;
+
+        
+
+
 
         }
             

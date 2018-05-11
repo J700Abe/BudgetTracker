@@ -182,3 +182,9 @@ C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\android\a
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Web.Services.pdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Xml.pdb
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\BudgetTracker.Android.dll
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\BudgetTracker.Android.dll.mdb
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
