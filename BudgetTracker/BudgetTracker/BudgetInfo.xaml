@@ -2,12 +2,39 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BudgetTracker.BudgetInfo">
+   
+    
     <ContentPage.Content>
-        <StackLayout>
+
+        <!--<StackLayout x:Name="test">
+            <Label Text="Enter your budget details below"/>
+        </StackLayout>-->
         
-            <Picker x:Name="monthPicker" Title="Select Month"></Picker>
-            <Entry x:Name="budgetAmount" Placeholder="Amount" Keyboard="Numeric"/>
-            <Button x:Name="setButton" Text="Set Budget" BackgroundColor="Blue" TextColor="White" Clicked="SetBudget"/>
+        
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center">
+
+            <Picker x:Name="monthPicker" 
+                    Title="Select month"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"/>
+            
+            <Entry x:Name="budgetAmount" 
+                   Placeholder="Enter amount"
+                   Keyboard="Numeric"
+                   VerticalOptions="Center"
+                   HorizontalOptions="Center"/>
+            
+            <Button x:Name="setButton" 
+                    Text="Set Budget"
+                    BackgroundColor="Blue"
+                    TextColor="White"
+                    Clicked="SetBudget"
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                   BorderRadius="5"
+                    BorderWidth="2"/>
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
