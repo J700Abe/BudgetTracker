@@ -12,10 +12,11 @@ namespace BudgetTracker
 	public partial class CurrentBudgetInfo : ContentPage
 	{
        
-        public  CurrentBudgetInfo ()
+        public CurrentBudgetInfo ()
 		{
-            InitializeComponent();
             GetBudgetInformation();
+            InitializeComponent();
+           
  
 		}
 
@@ -25,7 +26,6 @@ namespace BudgetTracker
         {
             var info = await PCLHelper.ReadAllTextAsync("Budget.txt");
             var b = JsonConvert.DeserializeObject<Budget>(info.ToString());
-          // var b = new ser
            sBudget.Text =  $"Budget: {b.TotalBudget}";
            currentBalance.Text = $"Balance: {b.CurrentBudget}";
 
