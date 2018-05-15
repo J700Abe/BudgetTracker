@@ -6,11 +6,6 @@
     
     <ContentPage.Content>
 
-        <!--<StackLayout x:Name="test">
-            <Label Text="Enter your budget details below"/>
-        </StackLayout>-->
-        
-        
         <StackLayout VerticalOptions="Center"
                      HorizontalOptions="Center">
 
