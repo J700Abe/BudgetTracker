@@ -90,13 +90,13 @@ C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTrack
 C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Web.Services.pdb
 C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
 C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Xml.pdb
-C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\BudgetTracker.Android.csprojResolveAssemblyReference.cache
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\BudgetTracker.Android.dll
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\BudgetTracker.Android.pdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\com.companyname.BudgetTracker.apk
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\com.companyname.BudgetTracker-Signed.apk
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\BudgetTracker.dll
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\BudgetTracker.pdb
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\BudgetTracker.Android.csprojResolveAssemblyReference.cache
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\BudgetTracker.Android.csproj.CoreCompileInputs.cache
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\BudgetTracker.Android.csproj.CopyComplete
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\BudgetTracker.Android.dll
@@ -183,7 +183,6 @@ C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\android\a
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Xml.Linq.pdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\android\assets\System.Xml.pdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\bin\Debug\BudgetTracker.Android.dll
-C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\BudgetTracker.pdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\BudgetTracker.Android.dll.mdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker.Android\obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb

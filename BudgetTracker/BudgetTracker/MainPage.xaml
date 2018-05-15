@@ -6,12 +6,11 @@
 
     <ContentPage.Padding></ContentPage.Padding>
     <ContentPage.Content>
-        <StackLayout VerticalOptions="FillAndExpand"
-                     HorizontalOptions="FillAndExpand"
-                     Orientation="Vertical"
-                     Spacing="15">
-            <Button x:Name="newBudget" Text="New Budget" TextColor="White" BackgroundColor="Blue" Clicked="GoToBudgetPage" IsEnabled="False"/>
-            <Button x:Name="viewBuget" Text="view Budget" TextColor="White" BackgroundColor="Blue" Clicked="CurrentBudget"/>
+        <StackLayout VerticalOptions="CenterAndExpand"
+                     HorizontalOptions="CenterAndExpand"
+                     Orientation="Horizontal">
+            <Button x:Name="newBudget" Text="New Budget" TextColor="White" BackgroundColor="Purple" Clicked="GoToBudgetPage"/>
+            <Button x:Name="viewBuget" Text="view Budget" TextColor="White" BackgroundColor="Purple" Clicked="CurrentBudget"/>
         </StackLayout>
     </ContentPage.Content>
 

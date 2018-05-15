@@ -11,6 +11,10 @@ C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTrack
 C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.pdb
 C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.csprojResolveAssemblyReference.cache
 C:\Users\Abraham\Documents\Visual Studio 2017\Projects\BudgetTracker\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.CurrentBudgetInfo.xaml.g.cs
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\bin\Debug\netstandard2.0\BudgetTracker.deps.json
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\bin\Debug\netstandard2.0\BudgetTracker.dll
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\bin\Debug\netstandard2.0\BudgetTracker.pdb
+C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.csprojResolveAssemblyReference.cache
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.csproj.CoreCompileInputs.cache
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.App.xaml.g.cs
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.BudgetInfo.xaml.g.cs
@@ -20,7 +24,3 @@ C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\Bu
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.AssemblyInfo.cs
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.dll
 C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.pdb
-C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\bin\Debug\netstandard2.0\BudgetTracker.deps.json
-C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\bin\Debug\netstandard2.0\BudgetTracker.dll
-C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\bin\Debug\netstandard2.0\BudgetTracker.pdb
-C:\Code\BudgetTrackerApp\BudgetTracker\BudgetTracker\obj\Debug\netstandard2.0\BudgetTracker.csprojResolveAssemblyReference.cache
