@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "MonoAndroid,Version=v7.1": {
+    "MonoAndroid,Version=v8.0": {
       "Newtonsoft.Json/11.0.2": {
         "type": "package",
         "compile": {
@@ -791,7 +791,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "MonoAndroid,Version=v7.1": [
+    "MonoAndroid,Version=v8.0": [
       "BudgetTracker >= 1.0.0",
       "Newtonsoft.Json >= 11.0.2",
       "PCLStorage >= 1.0.2",
@@ -810,11 +810,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
+      "projectUniqueName": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
       "projectName": "BudgetTracker.Android",
-      "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
+      "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.Android\\BudgetTracker.Android.csproj",
       "packagesPath": "C:\\Users\\Abraham\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker.Android\\obj\\",
+      "outputPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -826,24 +826,24 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
-        "monoandroid71"
+        "monoandroid80"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "monoandroid71": {
+        "monoandroid80": {
           "projectReferences": {
-            "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
-              "projectPath": "C:\\Users\\Abraham\\Documents\\Visual Studio 2017\\Projects\\BudgetTracker\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
+            "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj": {
+              "projectPath": "C:\\Code\\BudgetTrackerApp\\BudgetTracker\\BudgetTracker\\BudgetTracker.csproj"
             }
           }
         }
       }
     },
     "frameworks": {
-      "monoandroid71": {
+      "monoandroid80": {
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
